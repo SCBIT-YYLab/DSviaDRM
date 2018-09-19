@@ -7,3 +7,7 @@ average differential co-expression value of their component genes. Then 'DS' emp
 similarity for each disease pairs. And 'DS' contains a permutation process for evaluating the statistical significant of observed disease 
 partial correlation coefficients. At last, 'comDCGL' and 'comDCGLplot' sort out shared differentially co-expressed genes and differentially 
 co-expressed links with regulation information and visualize them. 
+
+# Reference
+Yang, J., et al. (2015). "DSviaDRM: an R package for estimating disease similarity via dysfunctional regulation mechanism." Bioinformatics 31(23): 3870-3872.
+
